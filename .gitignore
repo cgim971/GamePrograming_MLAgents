@@ -18,6 +18,13 @@
 /MLAgent_Practice/Packages  
 /MLAgent_Practice/obj 
 /MLAgent_Practice/Temp 
+
+
+/Penguins01/Library
+/Penguins01/Logs
+/Penguins01/Packages  
+/Penguins01/obj 
+/Penguins01/Temp 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
