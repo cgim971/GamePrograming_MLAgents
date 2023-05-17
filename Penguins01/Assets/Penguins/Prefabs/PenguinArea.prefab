@@ -1102,58 +1102,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1265085936461433515}
     m_Modifications:
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BehaviorName
-      value: Penguin
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BehaviorType
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_InferenceDevice
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BrainParameters.VectorObservationSize
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BrainParameters.VectorActionSize.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BrainParameters.VectorActionSize.Array.data[0]
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BrainParameters.VectorActionSize.Array.data[1]
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BrainParameters.m_ActionSpec.BranchSizes.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BrainParameters.m_ActionSpec.BranchSizes.Array.data[0]
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6976020954706945041, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: m_BrainParameters.m_ActionSpec.BranchSizes.Array.data[1]
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 7258838843323880344, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
       propertyPath: m_Name
       value: Penguin
       objectReference: {fileID: 0}
-    - target: {fileID: 7450101869215716774, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: HeartPrefab
-      value: 
-      objectReference: {fileID: 3837545976777114732, guid: b9406d4c542f19e4bb547214429bd66c, type: 3}
-    - target: {fileID: 7450101869215716774, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-      propertyPath: RegurgitatedFishPrefab
-      value: 
-      objectReference: {fileID: 1935339292679537607, guid: 7b07649028e2c0c46a4a27e8d344291a, type: 3}
     - target: {fileID: 8067991837560850722, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -1210,31 +1162,12 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7450101869215716774, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
   m_PrefabInstance: {fileID: 3363805483260997722}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5337381541996192706}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f93ff91844724a4da41fdfdd9728342, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1 &5337381541996192706 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7258838843323880344, guid: b045a92620de9fa42a766735c4b89c4d, type: 3}
-  m_PrefabInstance: {fileID: 3363805483260997722}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &778179034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5337381541996192706}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a5c9d521e5ef4759a8246a07d52221e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DecisionPeriod: 4
-  TakeActionsBetweenDecisions: 1
 --- !u!1001 &9074345348112612934
 PrefabInstance:
   m_ObjectHideFlags: 0
