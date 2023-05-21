@@ -25,6 +25,13 @@
 /Penguins01/Packages  
 /Penguins01/obj 
 /Penguins01/Temp 
+
+
+/Mummy/Library
+/Mummy/Logs
+/Mummy/Packages  
+/Mummy/obj 
+/Mummy/Temp 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
