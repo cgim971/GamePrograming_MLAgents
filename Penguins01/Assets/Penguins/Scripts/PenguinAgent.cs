@@ -106,7 +106,7 @@ public class PenguinAgent : Agent {
 
         AddReward(1f);
 
-        if(_penguinArea.FishRemaining <= 0) {
+        if (_penguinArea.FishRemaining <= 0) {
             EndEpisode();
         }
     }

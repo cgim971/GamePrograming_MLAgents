@@ -32,6 +32,12 @@
 /Mummy/Packages  
 /Mummy/obj 
 /Mummy/Temp 
+
+/Avoider/Library
+/Avoider/Logs
+/Avoider/Packages  
+/Avoider/obj 
+/Avoider/Temp 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
