@@ -1,0 +1,38 @@
+{
+    "MummyIL": {
+        "checkpoints": [
+            {
+                "steps": 499995,
+                "file_path": "results\\MummyIL02\\MummyIL\\MummyIL-499995.onnx",
+                "reward": -0.033333333830038704,
+                "creation_time": 1685500914.5767288,
+                "auxillary_file_paths": [
+                    "results\\MummyIL02\\MummyIL\\MummyIL-499995.pt"
+                ]
+            },
+            {
+                "steps": 928522,
+                "file_path": "results\\MummyIL02\\MummyIL\\MummyIL-928522.onnx",
+                "reward": 0.0,
+                "creation_time": 1685501466.9341125,
+                "auxillary_file_paths": [
+                    "results\\MummyIL02\\MummyIL\\MummyIL-928522.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 928522,
+            "file_path": "results\\MummyIL02\\MummyIL.onnx",
+            "reward": 0.0,
+            "creation_time": 1685501466.9341125,
+            "auxillary_file_paths": [
+                "results\\MummyIL02\\MummyIL\\MummyIL-928522.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

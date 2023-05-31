@@ -1,0 +1,29 @@
+{
+    "MummyIL": {
+        "checkpoints": [
+            {
+                "steps": 300014,
+                "file_path": "results\\MummyIL01\\MummyIL\\MummyIL-300014.onnx",
+                "reward": 0.0,
+                "creation_time": 1685500044.8028643,
+                "auxillary_file_paths": [
+                    "results\\MummyIL01\\MummyIL\\MummyIL-300014.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 300014,
+            "file_path": "results\\MummyIL01\\MummyIL.onnx",
+            "reward": 0.0,
+            "creation_time": 1685500044.8028643,
+            "auxillary_file_paths": [
+                "results\\MummyIL01\\MummyIL\\MummyIL-300014.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

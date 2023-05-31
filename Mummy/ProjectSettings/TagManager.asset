@@ -5,6 +5,18 @@ TagManager:
   serializedVersion: 2
   tags:
   - DEAD_ZONE
+  - GOOD_ITEM
+  - BAD_ITEM
+  - TARGET
+  - WALL
+  - BLACK
+  - RED
+  - GREEN
+  - BLUE
+  - HINT_BLACK
+  - HINT_BLUE
+  - HINT_RED
+  - HINT_GREEN
   layers:
   - Default
   - TransparentFX
